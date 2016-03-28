@@ -1,0 +1,1 @@
+Some sort based on the array keys, others by the = or not the the keys and values are after the sort, which may mean the keys are reset (0,1,2 ...)
